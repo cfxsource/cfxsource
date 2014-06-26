@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=FinerCoin
+Comment=FinerCoin P2P Cryptocurrency
+Comment[fr]=FinerCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=FinerCoin, eşten eşe kriptografik sanal para birimi
+Comment[es]=FinerCoin, una criptomoneda P2P
+Exec=/usr/bin/FinerCoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/FinerCoin;
+Categories=Office;
